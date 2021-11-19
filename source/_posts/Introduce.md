@@ -1,4 +1,4 @@
 ---
-title: Introduce of Rarelife
+title: Introduce
 ---
 This is not a game.
